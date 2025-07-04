@@ -1,12 +1,54 @@
-# React + Vite
+# 🎮 GTA 6 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-impact, responsive landing page inspired by Rockstar's **GTA VI**, built with **React.js**, **Tailwind CSS**, **GSAP**, and **JavaScript**. This project captures the bold visual style of GTA with cinematic transitions and smooth animations — perfect for fans and developers looking to explore frontend animation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 [View Live Site](https://gta-6-landing-page-three.vercel.app/)
+It May take time for Loading Please Wait...
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** – Component-based frontend
+- 🎨 **Tailwind CSS** – Utility-first responsive styling
+- 🌀 **GSAP** – Smooth animations and transitions
+- 📜 **JavaScript** – DOM logic and event control
+- 💡 **Vite / CRA** – Fast dev environment (based on your setup)
+
+---
+
+## 📸 Screenshots
+
+![GTA 6 Hero Section](![{2D4B3E87-BDBB-49AB-8C03-F68B5F3202D1}](https://github.com/user-attachments/assets/d3072f0b-c009-43b7-81a6-296bd6213259)
+)
+*Landing page with embedded trailer and bold CTA*
+
+---
+
+## 📁 Features
+
+- 📱 Fully responsive design
+- 🌀 GSAP-powered entrance animations
+- 🕶️ Stylish dark theme, GTA-inspired
+- 💻 Optimized for desktop & mobile
+
+---
+
+## 🔧 Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/AshimChoudhary/gta-6-landing-page.git
+   cd gta-6-landing-page
+
+2. **Install Dependencies**
+  npm install
+
+3. **Start the Development Server**
+  npm run dev  # or `npm start` if using CRA
+
+4. **Build for Production**
+  npm run build
