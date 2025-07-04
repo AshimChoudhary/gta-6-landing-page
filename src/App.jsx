@@ -123,7 +123,7 @@ function App() {
         </svg>
       </div>
       {showContent && (
-        <div className="main w-full rotate-[-10deg] scale-[1.7]">
+        <div className="main w-full  h-screen rotate-[-10deg] scale-[1.7]">
           <div className="landing overflow-hidden relative w-full h-screen bg-black">
             <div className="navbar absolute top-0 left-0 z-[10] w-full py-10 px-10">
               <div className="logo flex gap-7">
