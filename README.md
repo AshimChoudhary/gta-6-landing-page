@@ -22,9 +22,8 @@ It May take time for Loading Please Wait...
 
 ## 📸 Screenshots
 
-![GTA 6 Hero Section](![{2D4B3E87-BDBB-49AB-8C03-F68B5F3202D1}](https://github.com/user-attachments/assets/d3072f0b-c009-43b7-81a6-296bd6213259)
-)
-*Landing page with embedded trailer and bold CTA*
+
+![GTA 6 Hero Section](./src/assets/screenshot-1.png)
 
 ---
 
