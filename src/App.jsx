@@ -93,19 +93,31 @@ const App = () => {
                 alt="Background"
                 className="absolute top-0 left-0 w-full h-full object-cover z-20"
               />
+
+              <div className="text text-amber-50 flex flex-col gap-3 absolute top-0 left-160 -translate-x-1.5 z-50">
+                <h1 className="text-8xl -ml-40">grand</h1>
+                <h1 className="text-8xl ml-20">theft</h1>
+                <h1 className="text-8xl -ml-30">auto</h1>
+              </div>
               <img
                 src="./girlbg.png"
                 alt="Girl"
-                className="absolute bottom-[-70%] left-[50%] -translate-x-1/2 scale-[0.8] z-30"
+                className="absolute bottom-[-65%] left-[50%] -translate-x-1/2 scale-[0.9] z-60"
               />
             </div>
-            <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent">
+            <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent z-60">
               <div className="flex gap-4 items-center">
                 <i className="text-4xl ri-arrow-down-line z-[50]"></i>
                 <h3 className="text-xl font-[Helvetica_Now_Display] z-[50]">
                   Scroll Down
                 </h3>
               </div>
+
+              <img
+                src="./ps5.png"
+                alt=""
+                className="h-[50px] absolute top-1/2 left-155 -translate-x-1.5 -translate-y-1.5"
+              />
             </div>
           </div>
         </div>
